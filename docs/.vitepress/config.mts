@@ -26,6 +26,9 @@ export default defineConfig({
       copyright: "版权所有 (c) 2019-present Paranoia Seal",
     },
     logo: "/yyf_avatar.svg",
+    head: [
+      ['link', { rel: 'icon', href: '/yyf_avatar.svg' }]
+    ],
     editLink: {
       pattern: "https://github.com/KaguReion/YYFnoDiCK/edit/main/docs/:path",
     },
