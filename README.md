@@ -1,7 +1,7 @@
 <!-- markdownlint-disable MD033 MD041 -->
 
 <p align="center">
-  <a href="https://yyf.kagureion.top"><img src="https://raw.githubusercontent.com/KaguReion/YYFnoDiCK/main/assets/yyf_background_avatar.png" alt="README 头图"></a>
+  <a href="https://yyf.kagureion.top"><img src="https://raw.githubusercontent.com/KaguReion/YYFnoDiCK/main/assets/yyf_background_avatar_resized.png" alt="README 头图"></a>
 </p>
 
 <div align="center">
