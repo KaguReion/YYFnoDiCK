@@ -3,6 +3,9 @@ import { defineConfig } from "vitepress";
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "YYFnoDiCK",
+  head: [
+    ['link', { rel: 'icon', type: 'image/x-icon', href: '/yyf_avatar.ico' }],
+  ],
   description: "为 嘤嘤饭 发声！",
   lang: "zh",
   cleanUrls: true,
@@ -26,9 +29,6 @@ export default defineConfig({
       copyright: "版权所有 (c) 2019-present Paranoia Seal",
     },
     logo: "/yyf_avatar.svg",
-    head: [
-      ['link', { rel: 'icon', href: '/yyf_avatar.ico' }]
-    ],
     editLink: {
       pattern: "https://github.com/KaguReion/YYFnoDiCK/edit/main/docs/:path",
     },
