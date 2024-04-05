@@ -10,6 +10,7 @@ export default defineConfig({
     nav: [
       { text: "主页", link: "/" },
       { text: "发声", link: "/README" },
+      { text: "关于", link: "/about"}
     ],
     socialLinks: [
       { icon: "discord", link: "https://discord.com/channels/@KaguReion" },
@@ -20,7 +21,7 @@ export default defineConfig({
     siteTitle: "YYFnoDiCK",
     footer: {
       message:
-        '该 repo 遵循 <a href="https://github.com/KaguReion/YYFnoDiCK/blob/main/LICENSE">MIT</a> 协议。',
+        '该 repo 遵循 <a href="https://github.com/KaguReion/YYFnoDiCK/blob/main/LICENSE">MIT</a> 协议，并使用 <a href="https://vitepress.dev">VitePress</a> 构建。',
       copyright: "版权所有 (c) 2019-present Paranoia Seal",
     },
     logo: "/yyf_avatar.svg",

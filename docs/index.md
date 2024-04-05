@@ -11,6 +11,9 @@ hero:
       text: 为 嘤嘤饭 发声！
       link: /README
     - theme: alt
+      text: 关于该项目
+      link: /about
+    - theme: alt
       text: 在 GitHub 上查看
       link: https://github.com/KaguReion/YYFnoDiCK
   image:
