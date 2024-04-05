@@ -1,0 +1,7 @@
+{
+    "recommendations": [
+        "vue.volar",
+        "antfu.vite",
+        "davidanson.vscode-markdownlint"
+    ]
+}
