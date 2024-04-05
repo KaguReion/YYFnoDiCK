@@ -27,7 +27,7 @@ export default defineConfig({
     },
     logo: "/yyf_avatar.svg",
     head: [
-      ['link', { rel: 'icon', href: '/yyf_avatar.svg' }]
+      ['link', { rel: 'icon', href: '/yyf_avatar.ico' }]
     ],
     editLink: {
       pattern: "https://github.com/KaguReion/YYFnoDiCK/edit/main/docs/:path",
