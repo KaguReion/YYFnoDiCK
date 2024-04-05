@@ -1,7 +1,7 @@
 <!-- markdownlint-disable MD033 MD041 -->
 
 <p align="center">
-  <a href="https://yyf.kagureion.top"><img src="https://raw.githubusercontent.com/KaguReion/YYFnoDiCK/main/assets/yyf_background_avatar_resized.png" alt="README 头图"></a>
+  <a href="https://yyf.kagureion.top"><img src="https://raw.githubusercontent.com/KaguReion/YYFnoDiCK/main/docs/public/yyf_avatar.svg" alt="README 头图" width="200" height="200"></a>
 </p>
 
 <div align="center">
@@ -29,4 +29,4 @@ _✨ 一个用于迫害 嘤嘤饭 的网站。 ✨_
 
 # 贡献
 
-我们欢迎在遵循 [贡献者公约](https://github.com/KaguReion/YYFnoDiCK/blob/main/CODE_OF_CONDUCT.md) 的前提下，对该项目作出贡献。欢迎提交 [Issues](https://github.com/KaguReion/YYFnoDiCK/issues) 和 [Pull Requests](https://github.com/KaguReion/YYFnoDiCK/pulls)，或在 [Discussion](https://github.com/KaguReion/YYFnoDiCK/discussions) 区为该项目建言献策。
+我们欢迎在遵循 [贡献者公约](https://github.com/KaguReion/YYFnoDiCK/blob/main/CODE_OF_CONDUCT.md) 的前提下，对该项目作出贡献。欢迎提交 [Issues](https://github.com/KaguReion/YYFnoDiCK/issues) 和 [Pull Requests](https://github.com/KaguReion/YYFnoDiCK/pulls)，或在 [Discussions](https://github.com/KaguReion/YYFnoDiCK/discussions) 区为该项目建言献策。
