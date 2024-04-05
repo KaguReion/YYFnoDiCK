@@ -5,6 +5,7 @@ export default defineConfig({
   title: "YYFnoDiCK",
   description: "为 嘤嘤饭 发声！",
   lang: "zh",
+  cleanUrls: true,
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
